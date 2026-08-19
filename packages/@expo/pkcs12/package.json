@@ -30,7 +30,7 @@
     "directory": "packages/@expo/pkcs12"
   },
   "dependencies": {
-    "node-forge": "^1.2.1"
+    "node-forge": "^1.4.0"
   },
   "devDependencies": {
     "expo-module-scripts": "^4.0.0"
